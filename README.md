@@ -7,5 +7,6 @@ The algorithm is applied to a weighted graph representing the road network, with
 distances and other factors such as traffic and road conditions.
 
 
+Link to the project report: [Project_Report_bellman_ford.pdf](https://github.com/Hezron26/Bellman-Ford-algorithm/files/10469475/Project_Report_bellman_ford.pdf)
 
-[Project14_Report_Wekesa.pdf](https://github.com/Hezron26/Bellman-Ford-algorithm/files/10469376/Project14_Report_Wekesa.pdf)
+
